@@ -1,0 +1,15 @@
+.DS_Store
+
+/auth/node_modules
+/auth/package-lock.json
+
+/products/dist
+/products/node_modules
+/products/package-lock.json
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
